@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Thuchanh</string>
+    <string name="clear">Xóa tất cả</string>
+    <string name="setting">Cài đặt</string>
+    <string name="exit">Tắt ứng dụng</string>
+    <string name="clear_shortcut">Xóa</string>
+    <string name="setting_shortcut">Cài đặt</string>
+    <string name="exit_lable">Thoát</string>
+    <string name="message_caption">Thông báo</string>
+    <string name="message_content">Bạn muốn xóa nội dung</string>
+    <string name="close">Đóng</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="message1_content">Bạn muốn tắt ứng dụng?</string>
+    <string name="mauchu">Màu chữ</string>
+    <string name="maunen">Màu nền</string>
+
+    <string-array name="listColor">
+        <item name="do">Đỏ</item>
+        <item name="vang">Vàng</item>
+        <item name="xanh">Xanh</item>
+        <item name="den">Đen</item>
+        <item name="tim">Tím</item>
+        <item name="trang">Trắng</item>
+    </string-array>
+
+    <string-array name="listColorArray">
+        <item>#ff0004</item>
+        <item>#ffe100</item>
+        <item>#0004ff</item>
+        <item>#000000</item>
+        <item>#c203c2</item>
+        <item>#ffffff</item>
+    </string-array>
+
+    <string-array name="list_size">
+        <item name="40">40</item>
+        <item name="50">50</item>
+        <item name="100">100</item>
+    </string-array>
+
+
+    <string name="welcome">Welcome to Six Senses Resort</string>
+    <string name="pool">Our swimming pool</string>
+    <string name="reserve">Reserve Now!</string>
+</resources>
